@@ -844,5 +844,93 @@
       "ostype": "Windows OS",
       "osnameversion": "Windows 11 Home"
     }
+  ],
+  "microphone": [
+    {
+      "company": "Sennheiser",
+      "model": "MOMENTUM 4 Wireless",
+      "slug": "MOMENTUM-4-Wireless",
+      "imgone": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1685600760/Vertecdigi/momentum4_biy4ou.webp",
+      "Article number (SKU)": "509266 (black), 509267 (white)",
+      "Wearing style": "Headband stereo headphones",
+      "Ear Coupling": "Around-the-ear, circum-aural",
+      "Bluetooth version": "Bluetooth 5.2 compliant, class 1, 10 mW (max)"
+    },
+    {
+      "company": "Sennheiser",
+      "model": "MOMENTUM True Wireless 3",
+      "slug": "MOMENTUM-True-Wireless-3",
+      "imgone": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1685600760/Vertecdigi/momentumtrue_rxxmdg.webp",
+      "Article number (SKU)": "509180 (black), 700074 (graphite), 509181 (white)",
+      "Wearing style": "true wireless stereo earphones",
+      "Ear Coupling": "ear canal",
+      "Bluetooth version": "Bluetooth 5.2 compliant, class 1, 10 mW (max)"
+    },
+    {
+      "company": "Sennheiser",
+      "model": "MOMENTUM True Wireless 3",
+      "slug": "MOMENTUM-True-Wireless-3",
+      "imgone": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1685600760/Vertecdigi/momentum4_biy4ou.webp",
+      "Article number (SKU)": "509299",
+      "Wearing style": "true wireless stereo earphones",
+      "Ear Coupling": "ear canal",
+      "Bluetooth version": "Bluetooth 5.2 compatible, class 1, BLE"
+    },
+    {
+      "company": "Sennheiser",
+      "model": "SPORT True Wireless",
+      "slug": "SPORT-True-Wireless",
+      "imgone": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1685600760/Vertecdigi/sporttrue_qm13id.webp",
+      "Article number (SKU)": "509188 (black), 509189 (white)",
+      "Wearing style": "true wireless stereo earphones",
+      "Ear Coupling": "ear canal",
+      "Bluetooth version": "Bluetooth 5.2"
+    },  
+
+    {
+      "company": "avidex",
+      "model": "ENCOREPRO 530, OVER-THE-EAR, MONAURAL HEADSET",
+      "slug": "ENCOREPRO-500-SERIES",
+      "imgone": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1685600761/Vertecdigi/ENCOREPRO_530_muvr9a.webp",
+      "avidexa": "Hi-fi stereo for media playback (USB only)",
+      "avidexb": "Adjustable sidetone (USB only)",
+      "avidexc": "Aircraft grade aluminum joints for enhanced durability",
+      "avidexd": "Quick Disconnect (QD) tested to over 30,000 cycles",
+      "avidexe": "Inline call control for easy volume adjustment and muting (USB only)"
+    },
+   
+    {
+      "company": "avidex",
+      "model": "VOYAGER FOCUS UC, STANDARD: STEREO BLUETOOTH HEADSET",
+      "slug": "VOYAGER-FOCUS-UC-SERIES",
+      "imgone": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1685600761/Vertecdigi/VOYAGER_FOCUS_lwglnd.webp",
+      "avidexa": "Get great sound and block out noise",
+      "avidexb": "Connect to your devices and applications with ease",
+      "avidexc": "Use smart control of mute",
+      "avidexd": "Enjoy music in stereo with automatic controls",
+      "avidexe": "Customize settings to make it yours"
+    },
+    {
+      "company": "avidex",
+      "model": "ENCOREPRO 510 DIGITAL, OVER-THE-HEAD",
+      "slug": "ENCOREPRO 500 DIGITAL SERIES",
+      "imgone": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1685600761/Vertecdigi/ENCOREPRO_510_yhmezc.webp",
+      "avidexa": "Hi-fi stereo for media playback (USB only)",
+      "avidexb": "Adjustable sidetone (USB only)",
+      "avidexc": "Aircraft grade aluminum joints for enhanced durability",
+      "avidexd": "Quick Disconnect (QD) tested to over 30,000 cycles",
+      "avidexe": "Inline call control for easy volume adjustment and muting (USB only)"
+    },
+    {
+      "company": "avidex",
+      "model": "ENCOREPRO 520 DIGITAL, OVER-THE-HEAD",
+      "slug": "ENCOREPRO 500 DIGITAL SERIES",
+      "imgone": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1685600761/Vertecdigi/ENCOREPRO_520_lrxtnz.webp",
+      "avidexa": "Hi-fi stereo for media playback (USB only)",
+      "avidexb": "Adjustable sidetone (USB only)",
+      "avidexc": "Aircraft grade aluminum joints for enhanced durability",
+      "avidexd": "Quick Disconnect (QD) tested to over 30,000 cycles",
+      "avidexe": "Inline call control for easy volume adjustment and muting (USB only)"
+    }
   ]
 }
