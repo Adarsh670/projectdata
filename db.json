@@ -851,41 +851,42 @@
       "model": "MOMENTUM 4 Wireless",
       "slug": "MOMENTUM-4-Wireless",
       "imgone": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1685600760/Vertecdigi/momentum4_biy4ou.webp",
-      "Articlenumber": "509266 (black), 509267 (white)",
-      "Wearingstyle": "Headband stereo headphones",
-      "EarCoupling": "Around-the-ear, circum-aural",
-      "Bluetoothversion": "Bluetooth 5.2 compliant, class 1, 10 mW (max)"
+      "Article number (SKU)": "509266 (black), 509267 (white)",
+      "Wearing style": "Headband stereo headphones",
+      "Ear Coupling": "Around-the-ear, circum-aural",
+      "Bluetooth version": "Bluetooth 5.2 compliant, class 1, 10 mW (max)"
     },
     {
       "company": "Sennheiser",
       "model": "MOMENTUM True Wireless 3",
       "slug": "MOMENTUM-True-Wireless-3",
       "imgone": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1685600760/Vertecdigi/momentumtrue_rxxmdg.webp",
-      "Articlenumber": "509180 (black), 700074 (graphite), 509181 (white)",
-      "Wearingstyle": "true wireless stereo earphones",
-      "EarCoupling": "ear canal",
-      "Bluetoothversion": "Bluetooth 5.2 compliant, class 1, 10 mW (max)"
-    },
-    {
-      "company": "Sennheiser",
-      "model": "MOMENTUM True Wireless 3",
-      "slug": "MOMENTUM-True-Wireless-3",
-      "imgone": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1685600760/Vertecdigi/momentum4_biy4ou.webp",
-      "Articlenumber": "509299",
-      "Wearingstyle": "true wireless stereo earphones",
-      "EarCoupling": "ear canal",
-      "Bluetoothversion": "Bluetooth 5.2 compatible, class 1, BLE"
+      "Article number (SKU)": "509180 (black), 700074 (graphite), 509181 (white)",
+      "Wearing style": "true wireless stereo earphones",
+      "Ear Coupling": "ear canal",
+      "Bluetooth version": "Bluetooth 5.2 compliant, class 1, 10 mW (max)"
     },
     {
       "company": "Sennheiser",
       "model": "SPORT True Wireless",
       "slug": "SPORT-True-Wireless",
       "imgone": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1685600760/Vertecdigi/sporttrue_qm13id.webp",
-      "Articlenumber": "509188 (black), 509189 (white)",
-      "Wearingstyle": "true wireless stereo earphones",
-      "EarCoupling": "ear canal",
-      "Bluetoothversion": "Bluetooth 5.2"
-    },  
+      "Article number (SKU)": "509299",
+      "Wearing style": "true wireless stereo earphones",
+      "Ear Coupling": "ear canal",
+      "Bluetooth version": "Bluetooth 5.2 compatible, class 1, BLE"
+    },
+    {
+      "company": "Sennheiser",
+      "model": "CX Plus True",
+      "slug": "CX-Plus-True",
+      "imgone": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1685600760/Vertecdigi/CX_Plus_True_vvls3c.webp",
+      "Article number (SKU)": "509188 (black), 509189 (white)",
+      "Wearing style": "true wireless stereo earphones",
+      "Ear Coupling": "ear canal",
+      "Bluetooth version": "Bluetooth 5.2"
+    },
+     
 
     {
       "company": "avidex",
