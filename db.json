@@ -1099,6 +1099,7 @@
   "blogs": [
     {
       "title": "Unlocking Growth: Using Technology Solutions to Drive Business Expansion",
+      "slug":"unlocking-growth",
       "minidesc": "Setting growth goals is a common objective for businesses seeking to reach new heights. Acquiring new customers and taking the business to the next level are aspirations shared by many entrepreneurs. However, achieving growth can be challenging and navigating through the vast sea of information available on the internet can feel overwhelming. In this blog, we aim to alleviate some of that frustration by providing insights into how technology solutions can be leveraged to create a growth strategy tailored to your business needs and goals. Specifically, we will explore the areas where technology excels: automation, access, engagement, and security.",
       "automation": "Streamlining Operations for Efficiency",
       "automationdesc": "Automation tools have revolutionized various aspects of business operations, ranging from invoicing to customer service. Among these tools, chatbots stand out as a prime example of how technology can enhance customer interactions. With advancements in artificial intelligence (AI), chatbots have become more sophisticated and capable than ever before. By integrating a chatbot into your website, you can delegate a significant portion of customer service issues to this automated assistant. It can address common queries, direct customers to the right resources, and even escalate complex matters to human representatives within your organization. Efficiently managing leads and ensuring appropriate follow-up becomes easier, potentially leading to increased sales and business growth.",
@@ -1119,6 +1120,7 @@
     },
     {
       "title": "Price vs. Performance: Finding the Right Gaming Laptop for Your Budget",
+      "slug":"price-vs-performace",
       "minidesc": "When it comes to gaming laptops, finding the perfect balance between price and performance is crucial. As an avid gamer, you want a laptop that can handle the latest titles, deliver smooth gameplay, and provide an immersive experience without breaking the bank. In this guide, we will help you navigate the world of gaming laptops and provide insights on how to find the right gaming laptop for your budget. By understanding the key factors and making informed decisions, you can get the best bang for your buck without sacrificing gaming performance.",
       "setyourbudget": "The first step in finding the right gaming laptop is determining your budget. Set a realistic spending limit based on your financial capacity and prioritize the features that matter most to you. While high-end gaming laptops offer top-of-the-line performance, there are also budget-friendly options that can meet your gaming needs without straining your wallet.",
       "identify:": "Consider the types of games you play and the level of performance required. Are you a casual gamer who enjoys indie titles and older games, or do you crave the latest AAA titles with stunning graphics? Understanding your gaming needs will help you determine the level of performance you require from your gaming laptop.",
